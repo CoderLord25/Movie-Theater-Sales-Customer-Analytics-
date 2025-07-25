@@ -4,11 +4,11 @@
 
 ## Introduction
 
-This project was developed for **Data Got Talent 2023**, organized by the **Faculty of E-Commerce, University of Economics – The University of Danang**. The challenge required teams to analyze a movie dataset, generate insights, and build a business-oriented dashboard.
+An end-to-end data analytics project developed for the **Data Got Talent 2023** competition, hosted by the **Faculty of E-Commerce, University of Economics – The University of Danang**. The challenge required teams to uncover insights from a movie ticket dataset and design a business-oriented dashboard.
 
 ---
 
-## Objectives
+## Project Objectives
 
 The main objectives of this project were to:
 
@@ -21,16 +21,16 @@ The main objectives of this project were to:
 
 ## Dataset
 
-**Files used:**
+**Data Sources:**
 
-- `MoviesDataset.xlsx`: raw data from organizers  
-- `MoviesPreprocessedDataset.xlsx`: cleaned & processed data for analysis
+- `MoviesDataset.xlsx`:  Raw dataset provided by organizers
+- `MoviesPreprocessedDataset.xlsx`: Cleaned and transformed data for visualization
 
-**Key variables:**
+**Key Attributes:**
 
-- Film title, genre, rating, country  
-- Customer age, gender, job, location  
-- Sale date, ticket quantity, revenue
+- Movie: Film title, genre, rating, country  
+- Customer Information: Customer age, gender, job, location  
+- Transaction: Sale date, ticket quantity, revenue
 
 ---
 
@@ -82,5 +82,6 @@ Through this project, we learned to:
 ---
 
 ## Contact
-> **Team 2K29 – Data Got Talent 2023**  
+> **Team 2K29 – Data Got Talent 2023**
+> Feel free to reach out if you’re interested in the full report or dashboard walkthrough! 
 ---
